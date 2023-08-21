@@ -28,7 +28,7 @@ const App = () => {
       image: "./images/e-commers.png",
       desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus illo aperiam fugit dolore nobis expedita magnam corrupti error?",
       title: "e-Commers",
-      url: "http://127.0.0.1:5502/products.html",
+      url: "http://127.0.0.1:5502/index.html",
     },
     {
       image: "./images/Bio-School.png",
