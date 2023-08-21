@@ -28,7 +28,7 @@ const Project = (props) => {
             <img
               src={project.image}
               alt=""
-              className="max-w-sm mx-auto sm:max-w-lg md:max-w-xl xl:max-w-2xl"
+              className="max-w-xs mx-auto sm:max-w-lg md:max-w-xl xl:max-w-2xl"
             />
             <div className="lg:flex lg:flex-col lg:self-center   xl:px-12">
               <h3 className="mt-6 text-center font-semibold text-lg sm:text-xl md:text-2xl md:mt-8 lg:text-left">
